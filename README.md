@@ -6,4 +6,4 @@ programming enthusiast
 sportive   
 sports lover  
 calm and dedicated  
-![harsha vardhan](harsha.jpg)
+![harsha vardhan](harsha.jpg)  
